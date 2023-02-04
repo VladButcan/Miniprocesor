@@ -1,7 +1,5 @@
 Tema 1 : MINIPROCESOR
 
-
-
 Task 1 :
 In taskul 1 eu am creat un mic proces in urma caruia, in priul pas, 
 am citit un numar pe 32 de biti.
@@ -30,9 +28,6 @@ care va fi adunata cu 1 si apoi afisata pe ecran. Aceasta dimensiune se va utili
 in taskul 2.
 
 
-
-
-
 Task 2 :
 In taskul dat am copiat procesul din taskul 1 cu ceva modificari. In locul 
 afisarii operatiilor pe ecran eu le-am pus intr-un vector, pentru a le 
@@ -54,10 +49,6 @@ Dupa ce am citit toate numerele am lucrat pe vectorul de operatii automat
 realizand calculele pe vectorul de operanzi. Pe vectorul de operatii am 
 lucrat in ordinea aparitiilor operatiilor, fara a lua in calcul faptul 
 ca impartirea si inmultirea se fac inaintea adunarii si scaderii.
-
-
-
-
 
 
 Task 3 :
@@ -82,18 +73,11 @@ Dupa aceasta faceam urmatorul operand pe care il puneam in vectorul operanzilor.
 In acest task am facut calculele la fel ca si in taskul 2.
 
 
-
-
-
-
 Task 4 :
 In taskul 4 am copiat tot procesul din taskul 3 si am modificat doar finalul.
 Finanul a fost modificat dor prin faptul ca am pus in prioritate 
 adunarea si scaderea cu inmultirea si impartirea. Adica in primul rand am 
 efectut inmultirea sau impartirea, dupa care adunarea sau scaderea.
-
-
-
 
 
 Contacte : 
@@ -102,4 +86,4 @@ Butcan Vlad
 
 Nr. telefon : 0763834822
 
-Email: vlad.butcan@stud.acs.pub.ro
+Email: butcanvlad10@gmail.com
